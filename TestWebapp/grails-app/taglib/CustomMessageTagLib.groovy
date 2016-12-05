@@ -1,5 +1,3 @@
-package com.xms.taglib
-
 import java.text.MessageFormat
 
 import org.springframework.web.servlet.support.RequestContextUtils as RCU
